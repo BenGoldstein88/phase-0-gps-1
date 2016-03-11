@@ -2,13 +2,13 @@
 
 **Things you'll see on our awesome page**
 * some sweet GitHub work
-* great code
+* great code!!!!!
 * *teamwork*
 * lots of effort
 
 ```
 this code is sweet!
-sweet = true
+sweet = very true
 ```
 
 ![Screenshot of our awesome work](awesomework.png)
